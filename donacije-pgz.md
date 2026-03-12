@@ -1,6 +1,6 @@
 layout: page
 title: "Liga protiv raka PGŽ"
-permalink: /donacije/liga/pgz
+permalink: /donacije/liga/pgz/
 
 
 # Liga protiv raka PGŽ
